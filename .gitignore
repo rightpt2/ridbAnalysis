@@ -1,3 +1,4 @@
-/Data
-Data/
+# we will want to exclude ipython checkpoints and the giant reservations files
+Data/Reservations 
+analysis/__pycache__
 *.ipynb_checkpoints
