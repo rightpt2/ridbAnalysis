@@ -2,3 +2,4 @@
 Data/Reservations 
 analysis/__pycache__
 *.ipynb_checkpoints
+test_analysis
